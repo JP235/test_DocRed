@@ -1,6 +1,7 @@
 pandas 
 scikit-learn
 matplotlib
+statsmodels
 seaborn
 dash
 Werkzeug==2.3.7
