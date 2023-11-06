@@ -1,0 +1,6 @@
+pandas 
+scikit-learn
+matplotlib
+seaborn
+dash
+Werkzeug==2.3.7

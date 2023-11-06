@@ -1,0 +1,28 @@
+.div-user-controls {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    font-size: 24px;
+    justify-items: center;
+    padding: 2rem;
+}
+.div-user-controls > * {
+    padding: 1rem;
+}
+.dash-dropdown{
+    width: 150px;
+}
+.div-for-dropdown {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: max-content;
+}
+.plot {
+    padding: 0rem;
+    margin: 0;
+}
+.distribuciones {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
